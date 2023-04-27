@@ -4,6 +4,9 @@
 ### Entornos de desarrollo
 
 ---
+[Ver las ordenes básicas de git](git.md)
+
+---
 Aquí tienes un pequeño resumen de las etiquetas que puedes gastar en markdown:
 
 ---
