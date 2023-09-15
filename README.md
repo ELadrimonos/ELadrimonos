@@ -1,4 +1,5 @@
 # APB
+[![wakatime](https://wakatime.com/badge/github/ELadrimonos/ELadrimonos.svg)](https://wakatime.com/badge/github/ELadrimonos/ELadrimonos)
 
 ## CFGS Desarrollo de aplicaciones web
 ### Entornos de desarrollo
