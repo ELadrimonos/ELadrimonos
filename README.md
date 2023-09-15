@@ -4,6 +4,8 @@
 ## CFGS Desarrollo de aplicaciones web
 ### Entornos de desarrollo
 
+<figure><embed src="https://wakatime.com/share/@ELadrimonos/a0477090-392b-46bd-a95a-c0e55fb75dc7.svg"></embed></figure>
+
 ---
 [Ver las ordenes básicas de git](git.md)
 
