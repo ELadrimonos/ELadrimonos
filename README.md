@@ -6,7 +6,7 @@
 ---
 [![wakatime](https://wakatime.com/badge/github/ELadrimonos/ELadrimonos.svg)](https://wakatime.com/badge/github/ELadrimonos/ELadrimonos)
 
-![Estadisticas de lenguajes utilizados](https://wakatime.com/share/@ELadrimonos/a0477090-392b-46bd-a95a-c0e55fb75dc7.svg)
+![Estadisticas de lenguajes utilizados](https://wakatime.com/share/@ELadrimonos/dadfeef6-bb59-461b-87bc-a8a929772fcb.svg)
 
 
 ![Estadisticas de editores utilizados](https://wakatime.com/share/@ELadrimonos/6fbe5b7c-9116-4b21-b2d9-4e85a8b957bd.svg)
