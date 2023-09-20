@@ -4,7 +4,8 @@
 ## CFGS Desarrollo de aplicaciones web
 
 ---
-[![wakatime](https://wakatime.com/badge/github/ELadrimonos/ELadrimonos.svg)](https://wakatime.com/badge/github/ELadrimonos/ELadrimonos)
+[![wakatime](https://wakatime.com/badge/user/90f48023-a4b3-46db-a768-5df0bf02bac6.svg)](https://wakatime.com/@90f48023-a4b3-46db-a768-5df0bf02bac6)
+
 
 ![Estadisticas de lenguajes utilizados](https://wakatime.com/share/@ELadrimonos/dadfeef6-bb59-461b-87bc-a8a929772fcb.svg)
 
