@@ -13,6 +13,6 @@
 ![Estadisticas de editores utilizados](https://wakatime.com/share/@ELadrimonos/6fbe5b7c-9116-4b21-b2d9-4e85a8b957bd.svg)
 
 
-[Ver las guía de Markdown](guia_markdown.md)
+[Ver guía básica de Markdown](guia_markdown.md)
 
 [Ver las ordenes básicas de git](git.md)
