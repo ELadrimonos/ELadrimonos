@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =============================
 [![wakatime](https://wakatime.com/badge/user/90f48023-a4b3-46db-a768-5df0bf02bac6.svg)](https://wakatime.com/@90f48023-a4b3-46db-a768-5df0bf02bac6)
 
-2nd year student of Web Application Development
+2nd year student of Multi-Platform Application Development
 --------------------------------------------------
 
 * 🌍  I'm based in Valencia
