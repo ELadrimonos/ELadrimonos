@@ -70,6 +70,8 @@ Wakatime Stats
 --------------------------------------------------
 ![Estadisticas de lenguajes utilizados](https://wakatime.com/share/@ELadrimonos/dadfeef6-bb59-461b-87bc-a8a929772fcb.svg)
 
+![Snake commits](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+
 ![Estadisticas de editores utilizados](https://wakatime.com/share/@ELadrimonos/6fbe5b7c-9116-4b21-b2d9-4e85a8b957bd.svg)
 
 ![Categorías](https://wakatime.com/share/@ELadrimonos/cb088b33-cc5b-49d9-828e-6d8e950165e1.svg)
