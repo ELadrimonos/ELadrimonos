@@ -11,7 +11,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ## Skills
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ELadrimonos)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ELadrimonos&no-bg=true&no-frame=true&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Web
 <p align="left">
