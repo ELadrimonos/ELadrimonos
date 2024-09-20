@@ -6,10 +6,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 --------------------------------------------------
 
 * 🌍  I'm based in Valencia
-* ✉️  You can contact me at [adrpriber@alu.edu.gva.es](mailto:adrpriber@alu.edu.gva.es)
+* ✉️  You can contact me at [developer.aprimo@gmail.com](mailto:developer.aprimo@gmail.com)
 * 🧠  I'm currently learning Kotlin
 
 ## Skills
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ELadrimonos)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Web
 <p align="left">
@@ -59,7 +61,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
   <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
 </p>
-
 
 ### Socials
 
