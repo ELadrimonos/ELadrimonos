@@ -9,7 +9,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * ✉️  You can contact me at [developer.aprimo@gmail.com](mailto:developer.aprimo@gmail.com)
 * 🧠  I'm currently learning Kotlin
 
-[Google Play Store](https://play.google.com/store/apps/developer?id=Adri%C3%A1n+Primo+Bernat)
+<a href="https://play.google.com/store/apps/developer?id=Adri%C3%A1n+Primo+Bernat">
+<img width="150px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Play_Store_badge_EN.svg/2560px-Google_Play_Store_badge_EN.svg.png" alt="Google Play Store">
+</a>
 
 ## Skills
 
