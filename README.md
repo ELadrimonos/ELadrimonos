@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 --------------------------------------------------
 
 * 🌍  I'm based in Valencia
-* ✉️  You can contact me at [developer.aprimo@gmail.com](mailto:developer.aprimo@gmail.com)
+* ✉️  You can contact me at [aprimo.developer@gmail.com](mailto:aprimo,developer@gmail.com)
 * 🧠  I'm currently learning Kotlin
 
 <a href="https://play.google.com/store/apps/developer?id=Adri%C3%A1n+Primo+Bernat">
