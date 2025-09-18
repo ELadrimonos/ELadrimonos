@@ -3,12 +3,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 [![wakatime](https://wakatime.com/badge/user/90f48023-a4b3-46db-a768-5df0bf02bac6.svg)](https://wakatime.com/@90f48023-a4b3-46db-a768-5df0bf02bac6)
 [![Codewars](https://www.codewars.com/users/ELadrimonos/badges/micro)](https://www.codewars.com/users/ELadrimonos)
 
-2nd year student of Multi-Platform Application Development
+Full Stack Developer
 --------------------------------------------------
 
 * 🌍  I'm based in Valencia
 * ✉️  You can contact me at [aprimo.developer@gmail.com](mailto:aprimo,developer@gmail.com)
-* 🧠  I'm currently learning Kotlin
 
 <a href="https://play.google.com/store/apps/developer?id=Adri%C3%A1n+Primo+Bernat">
 <img width="150px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Play_Store_badge_EN.svg/2560px-Google_Play_Store_badge_EN.svg.png" alt="Google Play Store">
