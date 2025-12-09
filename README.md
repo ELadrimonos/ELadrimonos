@@ -20,7 +20,7 @@
 
 ### 🧠 Skills
 
-**Frontend:** Flutter, React, Android Views/Jetpack Compose
+**Frontend:** Flutter, React, Android Views/Jetpack Compose, Vue
 
 **Backend:** Go, Laravel, Symfony, Firebase, Supabase, Node.js
 
